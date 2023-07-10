@@ -1,0 +1,15 @@
+We welcome contributions to the Proxy Firewall script! To contribute, please follow these guidelines:
+
+    Fork the repository and clone it locally.
+    Create a new branch for your feature or bug fix: git checkout -b feature-name.
+    Make your changes and test thoroughly.
+    Commit your changes with clear and descriptive commit messages.
+    Push your branch to your forked repository.
+    Submit a pull request to the main repository's main branch.
+    Ensure your pull request clearly explains the changes and their purpose.
+
+Please note that by contributing to this project, you agree to license your contributions under the terms of the MIT License mentioned above.
+
+Thank you for your contribution! Your help is greatly appreciated.
+
+Feel free to adapt the contributing guidelines as per your project's requirements and development workflow.
